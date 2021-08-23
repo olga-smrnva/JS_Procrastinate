@@ -33,7 +33,7 @@ let phrases = [
 function getRandomElement(arr) {
 	let randIndex = Math.floor(Math.random() * arr.length);
 	return arr[randIndex];
-}
+};
 
 	let button = document.querySelector(".button");
 	let phrase = document.querySelector(".phrase");
@@ -55,4 +55,4 @@ button.addEventListener("click", function () {
 for (let i = 0; i < 3; i++) {
 	smoothly(phrase, "textContent", phrases[i].text);
 	smoothly(image, "src", phrases[i].image);
-}
+};
