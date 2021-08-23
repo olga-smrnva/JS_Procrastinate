@@ -6,28 +6,28 @@ let phrases = [
 	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/social.png",},
   
 	{ text: "deconstruct the lyrics of your favorite rap song",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/rap.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/rap.png",},
 	
 	{ text: "read the latest discussions on your favorite subreddits",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/rap.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/rap.png",},
 	
 	{ text: "calculate your future salary at Facebook",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/sport.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/sport.png",},
 
 	{ text: "think of smart responses to an argument you had last year",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/sport.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/sport.png",},
 	
 	{ text: "read the news online and argue with people in the comments section",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/social.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/social.png",},
 
 	{ text: "listen to sad songs and relive the mistakes of your youth",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/rap.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/rap.png",},
 
 	{ text: "watch the trailer for a TV show and then the whole first season for bonus points",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/social.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/social.png",},
 
 	{ text: "consider taking a Data Science course",
-    image: "https://code.s3.yandex.net/web-developer/procrastinator/images/sport.png",},
+	image: "https://code.s3.yandex.net/web-developer/procrastinator/images/sport.png",},
 ];
 
 function getRandomElement(arr) {
